@@ -31,7 +31,7 @@
     "ajv": "^6.10.2",
     "bem-cn": "^3.0.1",
     "core-js": "^3.2.1",
-    "entity-state": "^0.1.9",
+    "entity-state": "git+https://github.com/moment-team/entity-state.git#79b6fbb48afc51c09092bcc21f61f5eb75aceab3",
     "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
